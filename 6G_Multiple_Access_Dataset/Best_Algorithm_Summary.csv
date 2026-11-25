@@ -1,0 +1,6 @@
+Performance_Metric,Best_Algorithm,Value
+Lowest BER,CA-HMRA,1.5785306008238627e-07
+Highest Throughput,CA-HMRA,61.84543622532744
+Highest Spectral Efficiency,CA-HMRA,3.3687997326882804
+Highest Energy Efficiency,CA-HMRA,4.355312410234327
+Lowest Outage Probability,CA-HMRA,0.07362709500884246
